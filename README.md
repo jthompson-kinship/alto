@@ -1,2 +1,2 @@
-# alto
-Whistle Alto Product
+# alto (POC)
+Whistle Alto Product - Proof of Concept
